@@ -1,0 +1,21 @@
+{
+  "name": "homepage-website",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/IlliniOpenEdu/website#readme",
+  "bugs": {
+    "url": "https://github.com/IlliniOpenEdu/website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlliniOpenEdu/website.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cd homepage && npm run dev"
+  }
+}
